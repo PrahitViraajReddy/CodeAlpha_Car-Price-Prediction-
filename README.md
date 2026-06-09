@@ -158,10 +158,10 @@ Present Price is the most influential factor in determining the selling price of
 
 The following plots were generated:
 
-* Correlation Heatmap
-* Feature Importance Plot
-* Residual Plot
-* Actual vs Predicted Prices Plot
+* Correlation Heatmap(images/correlationmap.png)
+* Feature Importance Plot(images/Feature Importance.png)
+* Residual Plot(images/Resiudal Plot.png)
+* Actual vs Predicted Prices Plot(images/Actual vs Predicted Prices.png)
 
 These visualizations helped evaluate model behavior and identify important predictors.
 
