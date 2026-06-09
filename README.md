@@ -214,7 +214,7 @@ streamlit run app.py
 7. Model Evaluation
 8. Model Comparison
 9. Model Saving
-10. Streamlit Deployment
+10. Streamlit Web App(Local Interface)
 
 ---
 
