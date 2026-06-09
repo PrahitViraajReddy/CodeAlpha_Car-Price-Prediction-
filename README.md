@@ -170,6 +170,9 @@ These visualizations helped evaluate model behavior and identify important predi
 ## Streamlit Web Application
 
 A Streamlit-based web application was developed to provide real-time car price predictions.
+### How to run locally:
+```bash
+streamlit run app.py
 
 ### User Inputs
 
